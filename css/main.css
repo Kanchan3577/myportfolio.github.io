@@ -140,7 +140,7 @@ h5, .h05 {
 	letter-spacing: .15rem;
 }
 h6, .h06 {
-	font-size: 1.3rem;
+	font-size: 1.8rem;
 	line-height: 1.846;
 	text-transform: uppercase;
 	letter-spacing: .15rem;
@@ -1121,7 +1121,7 @@ header .logo a {
 }
 header{
 	background-color: black;
-	width: 220px;
+	width: 150px;
 	height:66px;
 	display: inline;
 }
