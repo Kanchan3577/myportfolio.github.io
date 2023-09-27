@@ -471,13 +471,13 @@ textarea {
 
 .col-eleven {
 	width: 91.66667%;
+	
 }
 
 .col-twelve,
 .col-full {
 	width: 100%;
 }
-
 /**
  * small screens - (_grid.scss)
  * --------------------------------------------------------------- 
