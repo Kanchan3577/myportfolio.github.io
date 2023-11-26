@@ -1507,6 +1507,7 @@ header{
 	margin-left: -30px;
 }
 .intro-info img {
+	object-fit: cover;
 	height: 9rem;
 	width: 9rem;
 	border-radius: 50%;
