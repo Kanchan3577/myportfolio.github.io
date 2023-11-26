@@ -1120,7 +1120,7 @@ header .logo a {
 	/* background-size: 113px 30px; */
 }
 header{
-	background-color: black;
+	background-color:deepskyblue;
 	width: 150px;
 	height:66px;
 	display: inline;
@@ -1141,7 +1141,7 @@ header{
 }
 .menu-toggle span {
 	display: block;
-	background-color: #0080ff;
+	background-color: #ffffff;
 	width: 24px;
 	height: 3px;
 	margin-top: -1.5px;
