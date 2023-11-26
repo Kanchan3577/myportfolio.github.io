@@ -2545,5 +2545,5 @@ footer .footer-social li a {
 /*# sourceMappingURL=main.css.map */
 
 .li-1{
-	line-height:1.8;
+	line-height:1.8 !important;
 }
